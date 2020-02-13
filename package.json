@@ -1,0 +1,14 @@
+{
+  "name": "smsamazon",
+  "version": "1.0.0",
+  "description": "Artigo para envio de SMS utilizando serviço da AWS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcos Garcia",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.618.0"
+  }
+}
